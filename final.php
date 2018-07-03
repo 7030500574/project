@@ -1,7 +1,7 @@
 <?php
 include'php_connect.php';
 extract($_POST);
-
+//helklio
 if(isset($submit))
 { 
 	$sub=$_POST["subject"];
